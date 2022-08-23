@@ -2,7 +2,7 @@
 **TPS63070 DCDC** 低功耗高效电池稳压方案  
 **TPS63070 Buck-Boost** Converter  
 
-🌏[**简体中文**](##概述)     🌎[**English**](#test)
+🌏[**简体中文**](##概述)     🌎[**English**](##Overview)
 
 
 ## 概述
@@ -60,23 +60,3 @@ TPS63070 2.5mm x 3mm QFN package ➡ [Datasheet]()
 TPS63070 DCDC Low Power Efficient Battery Regulator Solution ➡ [OSHWHub](https://oshwhub.com/c7h10n2/TPS63070)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#test
