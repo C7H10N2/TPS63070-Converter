@@ -2,6 +2,9 @@
 **TPS63070 DCDC** 低功耗高效电池稳压方案  
 **TPS63070 Buck-Boost** Converter  
 
+ <img src="/Img/Top.png" width = "300" alt="TopView" align=center /> 
+ <img src="/Img/Bottom.png" width = "300" alt="BottomView" align=center />
+
 🌏[**简体中文**](##概述)     🌎[**English**](##Overview)
 
 
