@@ -29,7 +29,7 @@
 
 ## 主控芯片
 
-**TPS63070** 2.5mm x 3mm QFN封装 ➡ [Datasheet]()
+**TPS63070** 2.5mm x 3mm QFN封装 ➡ [Datasheet](/Doc/Datasheet/)
 
 ## 硬件电路
 
@@ -56,7 +56,7 @@ At low load currents, the converter enters power saving mode to maintain high ef
 
 ## Control Chip
 
-TPS63070 2.5mm x 3mm QFN package ➡ [Datasheet]()
+TPS63070 2.5mm x 3mm QFN package ➡ [Datasheet](/Doc/Datasheet/)
 
 ## Hardware Circuit
 
